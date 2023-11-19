@@ -15,6 +15,8 @@ In this project, I reimplemented the methodology from the paper [“The Artifici
 
 ## Results
 
+The figure below shows the estimated policy value of the clinicians’ actual treatments, the AI policy, a random policy, and a zero-drug policy, across 100 realizations of the environment based on the eICU database. It can be seen that in terms of expected value, the best AI policy performs much better than the clinicians' policy. In addition, for most of the realizations, the zero-drug policy outperforms the AI policy.
+
 ![Sepsis-RL](https://github.com/OdedMous/Sepsis-RL/blob/main/images/Result1.png)
 
 
