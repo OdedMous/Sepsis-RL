@@ -16,11 +16,4 @@ In this project, I reimplemented the methodology from the paper [“The Artifici
 ![Sepsis-RL](https://github.com/OdedMous/Sepsis-RL/blob/main/images/Result1.png)
 
 
-See the full report in the following pdf: ```Advanced_NLP_Project.pdf```
-
-[Spectrogram Classification Using Dissimilarity Space][1]
-
-
-## Resources
-
-[1] "Spectrogram Classification Using Dissimilarity Space" (https://www.mdpi.com/2076-3417/10/12/4176/htm) 
+The full report can be found in: ```Project Report.pdf```
