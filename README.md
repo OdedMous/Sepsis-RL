@@ -9,4 +9,6 @@ See the full report in the following pdf: ```Advanced_NLP_Project.pdf```
 
 [Spectrogram Classification Using Dissimilarity Space][1]
 
+
+## Resources
 [1] "Spectrogram Classification Using Dissimilarity Space" (https://www.mdpi.com/2076-3417/10/12/4176/htm) 
