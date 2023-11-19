@@ -13,6 +13,8 @@ In this project, I reimplemented the methodology from the paper [“The Artifici
 
 ## Results
 
+![Sepsis-RL](https://github.com/OdedMous/Sepsis-RL/blob/main/images/Result1.png)
+
 
 See the full report in the following pdf: ```Advanced_NLP_Project.pdf```
 
