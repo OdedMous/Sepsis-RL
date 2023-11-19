@@ -9,7 +9,10 @@ In this project, I reimplemented the methodology from the paper [“The Artifici
 - The methodology includes discretizing the state and action spaces into finite sets and then applying the Policy Iteration algorithm for learning an optimal value function. Model evaluation is conducted using the Weighted Importance Sampling method.
 
 
-![Sepsis-RL](https://github.com/OdedMous/Sepsis-RL/blob/main/images/RL%20framework.png)
+| ![Sepsis-RL](https://github.com/OdedMous/Sepsis-RL/blob/main/images/RL%20framework.png) |
+|:--:| 
+| *Image Source: https://www.jmir.org/2020/7/e18477/* |
+
 
 ## Results
 
