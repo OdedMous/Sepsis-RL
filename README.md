@@ -22,4 +22,3 @@ The figure below shows the estimated policy value of the clinicians’ actual tr
 ![Sepsis-RL](https://github.com/OdedMous/Sepsis-RL/blob/main/images/Result1.png)
 
 
-The full report can be found in: ```Project Report.pdf```
