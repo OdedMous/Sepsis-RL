@@ -2,7 +2,9 @@
 
 ## Goal
 
-In this project, I reimplemented the methodology from the paper [“The Artificial Intelligence Clinician Learns Optimal Treatment Strategies for Sepsis in Intensive Care”](https://www.nature.com/articles/s41591-018-0213-5) by Komorowski et al. 
+Sepsis is a life-threatening medical condition that can lead to organ failure and death without timely treatment in the Intensive Care Unit (ICU). Managing septic patients involves the administration of several medications, but there is no universal treatment policy due to patient variability and the complexity of the disease.
+
+In this project, I developed a Reinforcement Learning (RL)-based agent that adjusts medication doses based on real-time clinical information from patients. This is a reimplementation of the methodology presented in the paper [“The Artificial Intelligence Clinician Learns Optimal Treatment Strategies for Sepsis in Intensive Care”](https://www.nature.com/articles/s41591-018-0213-5) by Komorowski et al. 
 
 - This work utilized an offline Reinforcement Learning algorithm to discover treatment strategies for septic patients in ICUs that may improve their chances of survival
 
